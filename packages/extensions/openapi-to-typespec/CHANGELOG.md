@@ -1,6 +1,18 @@
 # Change Log - @autorest/openapi-to-typespec
 
-This log was last generated on Wed, 28 Feb 2024 18:02:21 GMT and should not be manually modified.
+This log was last generated on Wed, 10 Apr 2024 08:47:15 GMT and should not be manually modified.
+
+## 0.8.0
+Wed, 10 Apr 2024 08:47:15 GMT
+
+### Minor changes
+
+- support generating csharp rename decorator when converting to tsp
+
+### Patches
+
+- lock openapi-to-typespec test config
+- fix wrong client lib import name
 
 ## 0.7.0
 Wed, 28 Feb 2024 18:02:21 GMT
